@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [CEHv13 Report](https://github.com/MayurPatil-45/CEHV13-REPORT)
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/mayurpatil45](www.linkedin.com/in/mayurpatil45)
+- 👨‍💻 All of my projects are available at
 
 - 📫 How to reach me **mayurpatil5899f@gmail.com**
 
